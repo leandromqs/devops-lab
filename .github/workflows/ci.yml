@@ -8,5 +8,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Exibir mensagem
-        run: echo "Olá, GitHub Actions!" 
+      - name: Mostrar data
+        run: date
+
+      - name: Mostrar diretório
+        run: pwd
+
+      - name: Listar arquivos
+        run: ls -la
