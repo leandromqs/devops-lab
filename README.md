@@ -401,7 +401,7 @@ git reset --hard
 
 # Próximos Estudos
 
-Após dominar esta trilha, recomenda-se aprofundar os estudos em:
+Após dominar esta trilha, recomenda-se aprofundar os estudos em: 
 
 * Docker
 * Docker Compose
