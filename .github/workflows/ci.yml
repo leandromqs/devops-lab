@@ -14,5 +14,8 @@ jobs:
       - name: Mostrar diretório
         run: pwd
 
+      - name: Baixar repo
+        run: git clone https://github.com/leandromqs/devops-lab
+
       - name: Listar arquivos
         run: ls -la
