@@ -415,5 +415,3 @@ Após dominar esta trilha, recomenda-se aprofundar os estudos em:
 * CI/CD
 * Monitoramento
 * Cloud Computing (AWS, Azure ou GCP)
-
-Essas tecnologias complementam o uso do Git e fazem parte da rotina de praticamente todo profissional DevOps.
